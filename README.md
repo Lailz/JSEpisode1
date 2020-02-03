@@ -11,7 +11,7 @@
 - Install `yarn`:
 
   ```bash
-  $ brew install yarn --without-node
+  $ brew install yarn
   ```
 
 #### The Files
