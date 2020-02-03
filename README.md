@@ -24,7 +24,7 @@ $ git clone https://github.com/<your_username>/JSEpisode1.git
 
 #### Running The Tests.
 
-Install all the requirements:
+Install all the requirements:.
 
 1. Navigate to the project root (you'll find a file called `package.json` there).
 2. Install the requirments using `yarn install`.
