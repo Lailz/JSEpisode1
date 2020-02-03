@@ -21,7 +21,7 @@
 ```bash
 $ git clone https://github.com/<your_username>/JSEpisode1.git
 ```
-.
+.n
 #### Running The Tests.
 
 Install all the requirements:.
